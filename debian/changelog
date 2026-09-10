@@ -1,3 +1,9 @@
+x265 (3.5-deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 21:14:16 +0800
+
 x265 (3.5-deepin1) stable; urgency=medium
 
   * Normalize ver2 (XdeepinY).
